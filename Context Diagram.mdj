@@ -834,68 +834,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFnYhAT1g4cjas="
 					},
-					"name": "Context Diagram - SPS",
-					"ownedViews": [
-						{
-							"_type": "DFDProcessView",
-							"_id": "AAAAAAFnYhC/lA4lIA4=",
-							"_parent": {
-								"$ref": "AAAAAAFnYhAT1g4dc/Q="
-							},
-							"model": {
-								"$ref": "AAAAAAFnYhC/lA4jHJU="
-							},
-							"subViews": [
-								{
-									"_type": "LabelView",
-									"_id": "AAAAAAFnYhC/lA4moa4=",
-									"_parent": {
-										"$ref": "AAAAAAFnYhC/lA4lIA4="
-									},
-									"font": "Arial;13;0",
-									"left": 346,
-									"top": 352,
-									"width": 173,
-									"height": 13,
-									"text": "SPS",
-									"wordWrap": true
-								},
-								{
-									"_type": "LabelView",
-									"_id": "AAAAAAFnYhC/lA4nKCg=",
-									"_parent": {
-										"$ref": "AAAAAAFnYhC/lA4lIA4="
-									},
-									"font": "Arial;13;0",
-									"left": 346,
-									"top": 325,
-									"width": 173,
-									"height": 13,
-									"text": "0"
-								}
-							],
-							"font": "Arial;13;0",
-							"left": 336,
-							"top": 320,
-							"width": 193,
-							"height": 145,
-							"nameLabel": {
-								"$ref": "AAAAAAFnYhC/lA4moa4="
-							},
-							"idLabel": {
-								"$ref": "AAAAAAFnYhC/lA4nKCg="
-							}
-						}
-					]
-				},
-				{
-					"_type": "DFDProcess",
-					"_id": "AAAAAAFnYhC/lA4jHJU=",
-					"_parent": {
-						"$ref": "AAAAAAFnYhAT1g4cjas="
-					},
-					"name": "SPS",
-					"id": "0"
+					"name": "Context Diagram - SPS"
 				}
 			]
 		}
