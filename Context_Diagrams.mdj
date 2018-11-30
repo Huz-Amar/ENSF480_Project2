@@ -81,6 +81,18 @@
 							"subViews": [
 								{
 									"_type": "LabelView",
+									"_id": "AAAAAAFnYljl8QT3DJ4=",
+									"_parent": {
+										"$ref": "AAAAAAFnYfNmCAxfLMs="
+									},
+									"font": "Arial;13;0",
+									"left": 58,
+									"top": 293,
+									"width": 149,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
 									"_id": "AAAAAAFnYj5mSwv7IAw=",
 									"_parent": {
 										"$ref": "AAAAAAFnYfNmCAxfLMs="
@@ -392,6 +404,18 @@
 							"subViews": [
 								{
 									"_type": "LabelView",
+									"_id": "AAAAAAFnYljl8wUOkOI=",
+									"_parent": {
+										"$ref": "AAAAAAFnYfwq8A0fvmQ="
+									},
+									"font": "Arial;13;0",
+									"left": 794,
+									"top": 325,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
 									"_id": "AAAAAAFnYj5mTgwRGxs=",
 									"_parent": {
 										"$ref": "AAAAAAFnYfwq8A0fvmQ="
@@ -519,6 +543,18 @@
 							"subViews": [
 								{
 									"_type": "LabelView",
+									"_id": "AAAAAAFnYljl9QUZxPs=",
+									"_parent": {
+										"$ref": "AAAAAAFnYgAvxw17+Hc="
+									},
+									"font": "Arial;13;0",
+									"left": 794,
+									"top": 429,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
 									"_id": "AAAAAAFnYj5mTwwbuNg=",
 									"_parent": {
 										"$ref": "AAAAAAFnYgAvxw17+Hc="
@@ -644,6 +680,18 @@
 								"$ref": "AAAAAAFnYibw8w5BVwI="
 							},
 							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAFnYljl9wUkGyY=",
+									"_parent": {
+										"$ref": "AAAAAAFnYibw8w5DJNc="
+									},
+									"font": "Arial;13;0",
+									"left": 794,
+									"top": 373,
+									"width": 99.67724609375,
+									"height": 13
+								},
 								{
 									"_type": "LabelView",
 									"_id": "AAAAAAFnYj5mVgwobfY=",
@@ -781,17 +829,17 @@
 										"$ref": "AAAAAAFnYk4Rig0/ri0="
 									},
 									"font": "Arial;13;0",
-									"left": 593,
+									"left": 592,
 									"top": 447,
-									"width": 164.01708984375,
+									"width": 145.2470703125,
 									"height": 13,
-									"alpha": -3.9795744310846457,
-									"distance": 13.45362404707371,
+									"alpha": -3.6052404625906793,
+									"distance": 22.360679774997898,
 									"hostEdge": {
 										"$ref": "AAAAAAFnYk4Riw1B64c="
 									},
 									"edgePosition": 1,
-									"text": "Thermostat Registration Info"
+									"text": "Account Registration Info"
 								}
 							],
 							"font": "Arial;13;0",
@@ -865,7 +913,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFnYfL9/QxMDmw="
 							},
-							"name": "Thermostat Registration Info",
+							"name": "Account Registration Info",
 							"source": {
 								"$ref": "AAAAAAFnYfL9/QxMDmw="
 							},
@@ -1060,6 +1108,18 @@
 							"subViews": [
 								{
 									"_type": "LabelView",
+									"_id": "AAAAAAFnYljl+gVHPwM=",
+									"_parent": {
+										"$ref": "AAAAAAFnYjn+W589lyA="
+									},
+									"font": "Arial;13;0",
+									"left": 154,
+									"top": 229,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
 									"_id": "AAAAAAFnYj5mWgxHYGM=",
 									"_parent": {
 										"$ref": "AAAAAAFnYjn+W589lyA="
@@ -1175,6 +1235,18 @@
 							"subViews": [
 								{
 									"_type": "LabelView",
+									"_id": "AAAAAAFnYljl+gVRel4=",
+									"_parent": {
+										"$ref": "AAAAAAFnYj8E3wxrMkE="
+									},
+									"font": "Arial;13;0",
+									"left": 106,
+									"top": 413,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
 									"_id": "AAAAAAFnYj8E4Axx5KQ=",
 									"_parent": {
 										"$ref": "AAAAAAFnYj8E3wxrMkE="
@@ -1286,17 +1358,17 @@
 										"$ref": "AAAAAAFnYkAJMwyIGO4="
 									},
 									"font": "Arial;13;0",
-									"left": 209,
-									"top": 415,
-									"width": 164.01708984375,
+									"left": 208,
+									"top": 414,
+									"width": 145.2470703125,
 									"height": 13,
-									"alpha": -4.514994382073455,
-									"distance": 10.198039027185569,
+									"alpha": -3.843849964409315,
+									"distance": 17.029386365926403,
 									"hostEdge": {
 										"$ref": "AAAAAAFnYkAJMwyKUMY="
 									},
 									"edgePosition": 1,
-									"text": "Thermostat Registration Info"
+									"text": "Account Registration Info"
 								}
 							],
 							"font": "Arial;13;0",
@@ -1322,6 +1394,18 @@
 								"$ref": "AAAAAAFnYkCPUgylCj4="
 							},
 							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAFnYljl/AVdce0=",
+									"_parent": {
+										"$ref": "AAAAAAFnYkCPUgynbKc="
+									},
+									"font": "Arial;13;0",
+									"left": 698,
+									"top": 317,
+									"width": 115.59716796875,
+									"height": 13
+								},
 								{
 									"_type": "LabelView",
 									"_id": "AAAAAAFnYkCPVAytqBA=",
@@ -1660,7 +1744,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFnYj8E3wxp7OA="
 							},
-							"name": "Thermostat Registration Info",
+							"name": "Account Registration Info",
 							"source": {
 								"$ref": "AAAAAAFnYj8E3wxp7OA="
 							},
