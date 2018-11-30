@@ -1,0 +1,211 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "DFDDataFlowModel",
+			"_id": "AAAAAAFnYfG+Wgwx3vU=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "DataFlowModel1",
+			"ownedElements": [
+				{
+					"_type": "DFDDiagram",
+					"_id": "AAAAAAFnYfG+Wwwybac=",
+					"_parent": {
+						"$ref": "AAAAAAFnYfG+Wgwx3vU="
+					},
+					"name": "DFDDiagram1",
+					"ownedViews": [
+						{
+							"_type": "DFDProcessView",
+							"_id": "AAAAAAFnYfL9/gxOR58=",
+							"_parent": {
+								"$ref": "AAAAAAFnYfG+Wwwybac="
+							},
+							"model": {
+								"$ref": "AAAAAAFnYfL9/QxMDmw="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAFnYfL9/gxPtg0=",
+									"_parent": {
+										"$ref": "AAAAAAFnYfL9/gxOR58="
+									},
+									"font": "Arial;13;0",
+									"left": 386,
+									"top": 376,
+									"width": 189,
+									"height": 13,
+									"text": "STS",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAFnYfL9/gxQBqI=",
+									"_parent": {
+										"$ref": "AAAAAAFnYfL9/gxOR58="
+									},
+									"font": "Arial;13;0",
+									"left": 386,
+									"top": 349,
+									"width": 189,
+									"height": 13,
+									"text": "0"
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 376,
+							"top": 344,
+							"width": 209,
+							"height": 145,
+							"nameLabel": {
+								"$ref": "AAAAAAFnYfL9/gxPtg0="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAFnYfL9/gxQBqI="
+							}
+						},
+						{
+							"_type": "DFDExternalEntityView",
+							"_id": "AAAAAAFnYfNmCAxfLMs=",
+							"_parent": {
+								"$ref": "AAAAAAFnYfG+Wwwybac="
+							},
+							"model": {
+								"$ref": "AAAAAAFnYfNmBwxdIq8="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAFnYfNmCQxl5sA=",
+									"_parent": {
+										"$ref": "AAAAAAFnYfNmCAxfLMs="
+									},
+									"font": "Arial;13;0",
+									"left": 130,
+									"top": 133,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAFnYfNmCAxgtIA=",
+									"_parent": {
+										"$ref": "AAAAAAFnYfNmCAxfLMs="
+									},
+									"font": "Arial;13;0",
+									"left": 130,
+									"top": 138,
+									"width": 87.4326171875,
+									"height": 13,
+									"text": "Homeowner",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAFnYfNmCAxhbLU=",
+									"_parent": {
+										"$ref": "AAAAAAFnYfNmCAxfLMs="
+									},
+									"font": "Arial;13;0",
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 120,
+							"top": 128,
+							"width": 107.4326171875,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAFnYfNmCAxgtIA="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAFnYfQjagx5gcc=",
+							"_parent": {
+								"$ref": "AAAAAAFnYfG+Wwwybac="
+							},
+							"model": {
+								"$ref": "AAAAAAFnYfQjagx3RtI="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAFnYfQjagx67jw=",
+									"_parent": {
+										"$ref": "AAAAAAFnYfQjagx5gcc="
+									},
+									"model": {
+										"$ref": "AAAAAAFnYfQjagx3RtI="
+									},
+									"font": "Arial;13;0",
+									"left": 224,
+									"top": 328,
+									"width": 67.18994140625,
+									"height": 13,
+									"alpha": 0.15037140556548614,
+									"distance": 66.75327707311455,
+									"hostEdge": {
+										"$ref": "AAAAAAFnYfQjagx5gcc="
+									},
+									"edgePosition": 1,
+									"text": "wifi settings"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAFnYfL9/gxOR58="
+							},
+							"tail": {
+								"$ref": "AAAAAAFnYfNmCAxfLMs="
+							},
+							"lineStyle": 2,
+							"points": "191:160;191:344;376:344",
+							"nameLabel": {
+								"$ref": "AAAAAAFnYfQjagx67jw="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDProcess",
+					"_id": "AAAAAAFnYfL9/QxMDmw=",
+					"_parent": {
+						"$ref": "AAAAAAFnYfG+Wgwx3vU="
+					},
+					"name": "STS",
+					"id": "0"
+				},
+				{
+					"_type": "DFDExternalEntity",
+					"_id": "AAAAAAFnYfNmBwxdIq8=",
+					"_parent": {
+						"$ref": "AAAAAAFnYfG+Wgwx3vU="
+					},
+					"name": "Homeowner",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAFnYfQjagx3RtI=",
+							"_parent": {
+								"$ref": "AAAAAAFnYfNmBwxdIq8="
+							},
+							"name": "wifi settings",
+							"source": {
+								"$ref": "AAAAAAFnYfNmBwxdIq8="
+							},
+							"target": {
+								"$ref": "AAAAAAFnYfL9/QxMDmw="
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}
