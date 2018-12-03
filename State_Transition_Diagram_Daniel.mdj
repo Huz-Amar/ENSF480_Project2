@@ -140,7 +140,7 @@
 											"font": "Arial;13;1",
 											"left": 205,
 											"top": 231,
-											"width": 132.234375,
+											"width": 135.84619140625,
 											"height": 13,
 											"text": "Scheduling"
 										},
@@ -175,7 +175,7 @@
 									"font": "Arial;13;0",
 									"left": 200,
 									"top": 224,
-									"width": 142.234375,
+									"width": 145.84619140625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFnc0Pfibzg+BM="
@@ -212,16 +212,16 @@
 											"font": "Arial;13;0",
 											"left": 205,
 											"top": 254,
-											"width": 132.234375,
+											"width": 135.84619140625,
 											"height": 13,
-											"text": "entry/read temperature",
+											"text": "entry/read  temperature",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 200,
 									"top": 249,
-									"width": 142.234375,
+									"width": 145.84619140625,
 									"height": 23
 								},
 								{
@@ -252,14 +252,14 @@
 									"font": "Arial;13;0",
 									"left": 200,
 									"top": 272,
-									"width": 142.234375
+									"width": 145.84619140625
 								}
 							],
 							"font": "Arial;13;0",
 							"containerChangeable": true,
 							"left": 200,
 							"top": 224,
-							"width": 142.234375,
+							"width": 145.84619140625,
 							"height": 48,
 							"nameCompartment": {
 								"$ref": "AAAAAAFnc0PfibzfRdk="
@@ -2182,7 +2182,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFnc0Pfibzd4zg="
 									},
-									"name": "read temperature"
+									"name": "read  temperature"
 								}
 							]
 						},
