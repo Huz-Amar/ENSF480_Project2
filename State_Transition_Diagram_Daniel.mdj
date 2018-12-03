@@ -1595,7 +1595,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 48,
+											"left": -16,
 											"top": 64,
 											"height": 13
 										},
@@ -1606,9 +1606,9 @@
 												"$ref": "AAAAAAFnc2DZksDrNbs="
 											},
 											"font": "Arial;13;1",
-											"left": 397,
+											"left": 365,
 											"top": 551,
-											"width": 148.865234375,
+											"width": 244.96240234375,
 											"height": 13,
 											"text": "Adjusting"
 										},
@@ -1620,7 +1620,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 48,
+											"left": -16,
 											"top": 64,
 											"width": 38.27001953125,
 											"height": 13,
@@ -1634,16 +1634,16 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 48,
+											"left": -16,
 											"top": 64,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 392,
+									"left": 360,
 									"top": 544,
-									"width": 158.865234375,
+									"width": 254.96240234375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFnc2DZksDsSew="
@@ -1678,19 +1678,53 @@
 												"$ref": "AAAAAAFnc2g1cMGcr48="
 											},
 											"font": "Arial;13;0",
-											"left": 397,
+											"left": 365,
 											"top": 574,
-											"width": 148.865234375,
+											"width": 244.96240234375,
 											"height": 13,
-											"text": "entry/change temperature",
+											"text": "entry/order temperature to AC and furnace",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLInternalActivityView",
+											"_id": "AAAAAAFndgmrpIvA/AM=",
+											"_parent": {
+												"$ref": "AAAAAAFnc2DZk8DwnhQ="
+											},
+											"model": {
+												"$ref": "AAAAAAFndgmrdYu9GH4="
+											},
+											"font": "Arial;13;0",
+											"left": 365,
+											"top": 589,
+											"width": 244.96240234375,
+											"height": 13,
+											"text": "do/check temperature",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLInternalActivityView",
+											"_id": "AAAAAAFndgm4kIvG0TU=",
+											"_parent": {
+												"$ref": "AAAAAAFnc2DZk8DwnhQ="
+											},
+											"model": {
+												"$ref": "AAAAAAFndgm4YovDq1M="
+											},
+											"font": "Arial;13;0",
+											"left": 365,
+											"top": 604,
+											"width": 244.96240234375,
+											"height": 13,
+											"text": "exit/temperature is set",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 392,
+									"left": 360,
 									"top": 569,
-									"width": 158.865234375,
-									"height": 23
+									"width": 254.96240234375,
+									"height": 53
 								},
 								{
 									"_type": "UMLInternalTransitionCompartmentView",
@@ -1703,7 +1737,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 24,
+									"left": -8,
 									"top": 32,
 									"width": 10,
 									"height": 10
@@ -1718,17 +1752,17 @@
 										"$ref": "AAAAAAFnc2DZksDpLLs="
 									},
 									"font": "Arial;13;0",
-									"left": 392,
-									"top": 592,
-									"width": 158.865234375
+									"left": 360,
+									"top": 622,
+									"width": 254.96240234375
 								}
 							],
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 392,
+							"left": 360,
 							"top": 544,
-							"width": 158.865234375,
-							"height": 48,
+							"width": 254.96240234375,
+							"height": 78,
 							"nameCompartment": {
 								"$ref": "AAAAAAFnc2DZksDrNbs="
 							},
@@ -1824,7 +1858,7 @@
 							"tail": {
 								"$ref": "AAAAAAFnc0w/iL7B7pI="
 							},
-							"points": "264:487;264:563;392:563",
+							"points": "264:487;264:563;360:563",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFnc2FNwsESs2Q="
@@ -1950,12 +1984,12 @@
 										"$ref": "AAAAAAFnc2JglsFTgxc="
 									},
 									"font": "Arial;13;0",
-									"left": 607,
-									"top": 390,
+									"left": 679,
+									"top": 366,
 									"width": 80,
 									"height": 26,
-									"alpha": -2.2108843211375246,
-									"distance": 58.60034129593445,
+									"alpha": -1.820774845173671,
+									"distance": 48.507731342539614,
 									"hostEdge": {
 										"$ref": "AAAAAAFnc2JglsFUd5o="
 									},
@@ -1974,8 +2008,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 570,
-									"top": 362,
+									"left": 642,
+									"top": 361,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -1995,8 +2029,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 615,
-									"top": 363,
+									"left": 687,
+									"top": 362,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -2013,7 +2047,7 @@
 							"tail": {
 								"$ref": "AAAAAAFnc2DZksDqZYw="
 							},
-							"points": "550:563;600:563;600:176;520:176",
+							"points": "614:560;672:560;672:176;520:176",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFnc2JglsFV05w="
@@ -2241,7 +2275,27 @@
 									"_parent": {
 										"$ref": "AAAAAAFnc2DZksDpLLs="
 									},
-									"name": "change temperature"
+									"name": "order temperature to AC and furnace"
+								}
+							],
+							"doActivities": [
+								{
+									"_type": "UMLActivity",
+									"_id": "AAAAAAFndgmrdYu9GH4=",
+									"_parent": {
+										"$ref": "AAAAAAFnc2DZksDpLLs="
+									},
+									"name": "check temperature"
+								}
+							],
+							"exitActivities": [
+								{
+									"_type": "UMLActivity",
+									"_id": "AAAAAAFndgm4YovDq1M=",
+									"_parent": {
+										"$ref": "AAAAAAFnc2DZksDpLLs="
+									},
+									"name": "temperature is set"
 								}
 							]
 						},
