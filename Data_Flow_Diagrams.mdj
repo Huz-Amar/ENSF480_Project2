@@ -730,8 +730,8 @@
 										"$ref": "AAAAAAFnYzhGwlSOihk="
 									},
 									"font": "Arial;13;0",
-									"left": 1194,
-									"top": 829,
+									"left": 962,
+									"top": 813,
 									"width": 87.4326171875,
 									"height": 13
 								},
@@ -742,8 +742,8 @@
 										"$ref": "AAAAAAFnYzhGwlSOihk="
 									},
 									"font": "Arial;13;0",
-									"left": 1194,
-									"top": 829,
+									"left": 954,
+									"top": 837,
 									"width": 87.4326171875,
 									"height": 13
 								},
@@ -754,8 +754,8 @@
 										"$ref": "AAAAAAFnYzhGwlSOihk="
 									},
 									"font": "Arial;13;0",
-									"left": 1194,
-									"top": 829,
+									"left": 954,
+									"top": 837,
 									"width": 87.4326171875,
 									"height": 13
 								},
@@ -766,8 +766,8 @@
 										"$ref": "AAAAAAFnYzhGwlSOihk="
 									},
 									"font": "Arial;13;0",
-									"left": 1194,
-									"top": 834,
+									"left": 962,
+									"top": 818,
 									"width": 87.4326171875,
 									"height": 13,
 									"text": "SPS",
@@ -780,16 +780,16 @@
 										"$ref": "AAAAAAFnYzhGwlSOihk="
 									},
 									"font": "Arial;13;0",
-									"left": 1144,
-									"top": 8,
+									"left": 904,
+									"top": 16,
 									"height": 13
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 1184,
-							"top": 824,
+							"left": 952,
+							"top": 808,
 							"width": 107.4326171875,
-							"height": 33,
+							"height": 49,
 							"nameLabel": {
 								"$ref": "AAAAAAFnYzhGwlSPrfo="
 							}
@@ -814,8 +814,8 @@
 										"$ref": "AAAAAAFnYz6enFSZZaI="
 									},
 									"font": "Arial;13;0",
-									"left": 770,
-									"top": 814,
+									"left": 654,
+									"top": 821,
 									"width": 139.46435546875,
 									"height": 13,
 									"alpha": 1.5707970960256656,
@@ -835,151 +835,9 @@
 								"$ref": "AAAAAAFnYzQFElRq5XE="
 							},
 							"lineStyle": 2,
-							"points": "496:833;1184:833",
+							"points": "496:840;952:840",
 							"nameLabel": {
 								"$ref": "AAAAAAFnYz6enFScf9s="
-							}
-						},
-						{
-							"_type": "DFDProcessView",
-							"_id": "AAAAAAFnY0GsnFS7lno=",
-							"_parent": {
-								"$ref": "AAAAAAFnYytzsVNze80="
-							},
-							"model": {
-								"$ref": "AAAAAAFnY0GsnFS5Qto="
-							},
-							"subViews": [
-								{
-									"_type": "LabelView",
-									"_id": "AAAAAAFnY0GsnFS8t+A=",
-									"_parent": {
-										"$ref": "AAAAAAFnY0GsnFS7lno="
-									},
-									"font": "Arial;13;0",
-									"left": 1242,
-									"top": 600,
-									"width": 165,
-									"height": 13,
-									"text": "Manage History",
-									"wordWrap": true
-								},
-								{
-									"_type": "LabelView",
-									"_id": "AAAAAAFnY0GsnFS9h24=",
-									"_parent": {
-										"$ref": "AAAAAAFnY0GsnFS7lno="
-									},
-									"font": "Arial;13;0",
-									"left": 1242,
-									"top": 573,
-									"width": 165,
-									"height": 13,
-									"text": "5.0"
-								}
-							],
-							"font": "Arial;13;0",
-							"left": 1232,
-							"top": 568,
-							"width": 185,
-							"height": 69,
-							"nameLabel": {
-								"$ref": "AAAAAAFnY0GsnFS8t+A="
-							},
-							"idLabel": {
-								"$ref": "AAAAAAFnY0GsnFS9h24="
-							}
-						},
-						{
-							"_type": "DFDDataFlowView",
-							"_id": "AAAAAAFnY0IrG1TMPdo=",
-							"_parent": {
-								"$ref": "AAAAAAFnYytzsVNze80="
-							},
-							"model": {
-								"$ref": "AAAAAAFnY0IrG1TKMNU="
-							},
-							"subViews": [
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAFnY0IrG1TNy78=",
-									"_parent": {
-										"$ref": "AAAAAAFnY0IrG1TMPdo="
-									},
-									"model": {
-										"$ref": "AAAAAAFnY0IrG1TKMNU="
-									},
-									"font": "Arial;13;0",
-									"left": 1127,
-									"top": 303,
-									"width": 120.681640625,
-									"height": 13,
-									"alpha": -1.7332855121832635,
-									"distance": 61.814237842102365,
-									"hostEdge": {
-										"$ref": "AAAAAAFnY0IrG1TMPdo="
-									},
-									"edgePosition": 1,
-									"text": "Energy usage record"
-								}
-							],
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAFnY0GsnFS7lno="
-							},
-							"tail": {
-								"$ref": "AAAAAAFnYyxNqVN9AOA="
-							},
-							"lineStyle": 2,
-							"points": "504:320;1248:320;1248:568",
-							"nameLabel": {
-								"$ref": "AAAAAAFnY0IrG1TNy78="
-							}
-						},
-						{
-							"_type": "DFDDataFlowView",
-							"_id": "AAAAAAFnY0NvFVTiKW8=",
-							"_parent": {
-								"$ref": "AAAAAAFnYytzsVNze80="
-							},
-							"model": {
-								"$ref": "AAAAAAFnY0NvFVTgcV0="
-							},
-							"subViews": [
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAFnY0NvFVTjmC4=",
-									"_parent": {
-										"$ref": "AAAAAAFnY0NvFVTiKW8="
-									},
-									"model": {
-										"$ref": "AAAAAAFnY0NvFVTgcV0="
-									},
-									"font": "Arial;13;0",
-									"left": 1327,
-									"top": 816,
-									"width": 126.43896484375,
-									"height": 13,
-									"alpha": 3.393282590891629,
-									"distance": 72.27724399837061,
-									"hostEdge": {
-										"$ref": "AAAAAAFnY0NvFVTiKW8="
-									},
-									"edgePosition": 1,
-									"text": "Energy Usage History"
-								}
-							],
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAFnYzhGwlSOihk="
-							},
-							"tail": {
-								"$ref": "AAAAAAFnY0GsnFS7lno="
-							},
-							"lineStyle": 2,
-							"points": "1320:636;1320:840;1290:840",
-							"nameLabel": {
-								"$ref": "AAAAAAFnY0NvFVTjmC4="
 							}
 						},
 						{
@@ -1191,8 +1049,8 @@
 										"$ref": "AAAAAAFnY0939VVhVqc="
 									},
 									"font": "Arial;13;0",
-									"left": 994,
-									"top": 725,
+									"left": 658,
+									"top": 477,
 									"width": 99.67724609375,
 									"height": 13
 								},
@@ -1203,8 +1061,8 @@
 										"$ref": "AAAAAAFnY0939VVhVqc="
 									},
 									"font": "Arial;13;0",
-									"left": 666,
-									"top": 613,
+									"left": 330,
+									"top": 365,
 									"width": 87.4326171875,
 									"height": 13
 								},
@@ -1215,8 +1073,8 @@
 										"$ref": "AAAAAAFnY0939VVhVqc="
 									},
 									"font": "Arial;13;0",
-									"left": 666,
-									"top": 613,
+									"left": 330,
+									"top": 365,
 									"width": 87.4326171875,
 									"height": 13
 								},
@@ -1227,8 +1085,8 @@
 										"$ref": "AAAAAAFnY0939VVhVqc="
 									},
 									"font": "Arial;13;0",
-									"left": 994,
-									"top": 730,
+									"left": 658,
+									"top": 482,
 									"width": 99.67724609375,
 									"height": 13,
 									"text": "FireAlarmSystem",
@@ -1241,14 +1099,14 @@
 										"$ref": "AAAAAAFnY0939VVhVqc="
 									},
 									"font": "Arial;13;0",
-									"left": -416,
-									"top": 64,
+									"left": -752,
+									"top": -184,
 									"height": 13
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 984,
-							"top": 720,
+							"left": 648,
+							"top": 472,
 							"width": 119.67724609375,
 							"height": 33,
 							"nameLabel": {
@@ -1275,12 +1133,12 @@
 										"$ref": "AAAAAAFnY0+iYFVrjCY="
 									},
 									"font": "Arial;13;0",
-									"left": 841,
-									"top": 708,
+									"left": 728,
+									"top": 599,
 									"width": 91.0634765625,
 									"height": 13,
-									"alpha": 2.3191747578799218,
-									"distance": 19.1049731745428,
+									"alpha": -1.7211676236647306,
+									"distance": 66.75327707311455,
 									"hostEdge": {
 										"$ref": "AAAAAAFnY0+iYFVt9DE="
 									},
@@ -1296,7 +1154,7 @@
 								"$ref": "AAAAAAFnY0Y/XlTwcA8="
 							},
 							"lineStyle": 2,
-							"points": "816:728;984:728",
+							"points": "707:688;707:504",
 							"nameLabel": {
 								"$ref": "AAAAAAFnY0+iYFVuRoo="
 							}
@@ -1528,6 +1386,287 @@
 							"nameLabel": {
 								"$ref": "AAAAAAFndqdhZO2B40I="
 							}
+						},
+						{
+							"_type": "DFDDataStoreView",
+							"_id": "AAAAAAFndrB6IO2LPIY=",
+							"_parent": {
+								"$ref": "AAAAAAFnYytzsVNze80="
+							},
+							"model": {
+								"$ref": "AAAAAAFndrB6H+2JXIY="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAFndrB6IO2MZ2I=",
+									"_parent": {
+										"$ref": "AAAAAAFndrB6IO2LPIY="
+									},
+									"font": "Arial;13;0",
+									"left": 956,
+									"top": 490,
+									"width": 115,
+									"height": 26,
+									"text": "Energy Usage Records",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAFndrB6IO2NVkI=",
+									"_parent": {
+										"$ref": "AAAAAAFndrB6IO2LPIY="
+									},
+									"font": "Arial;13;0",
+									"left": 941,
+									"top": 490,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 936,
+							"top": 480,
+							"width": 145,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAFndrB6IO2MZ2I="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAFndrB6IO2NVkI="
+							}
+						},
+						{
+							"_type": "DFDProcessView",
+							"_id": "AAAAAAFndsXyfO2tawc=",
+							"_parent": {
+								"$ref": "AAAAAAFnYytzsVNze80="
+							},
+							"model": {
+								"$ref": "AAAAAAFndsXyfO2rRqQ="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAFndsXyfO2uvZw=",
+									"_parent": {
+										"$ref": "AAAAAAFndsXyfO2tawc="
+									},
+									"font": "Arial;13;0",
+									"left": 954,
+									"top": 664,
+									"width": 117,
+									"height": 26,
+									"text": "Manage Energy Usage History",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAFndsXyfe2vIfQ=",
+									"_parent": {
+										"$ref": "AAAAAAFndsXyfO2tawc="
+									},
+									"font": "Arial;13;0",
+									"left": 954,
+									"top": 637,
+									"width": 117,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 944,
+							"top": 632,
+							"width": 137,
+							"height": 95,
+							"nameLabel": {
+								"$ref": "AAAAAAFndsXyfO2uvZw="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAFndsXyfe2vIfQ="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAFndsZuk+26T+o=",
+							"_parent": {
+								"$ref": "AAAAAAFnYytzsVNze80="
+							},
+							"model": {
+								"$ref": "AAAAAAFndsZuk+24Pbc="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAFndsZuk+27xAA=",
+									"_parent": {
+										"$ref": "AAAAAAFndsZuk+26T+o="
+									},
+									"model": {
+										"$ref": "AAAAAAFndsZuk+24Pbc="
+									},
+									"font": "Arial;13;0",
+									"left": 1023,
+									"top": 767,
+									"width": 120.681640625,
+									"height": 13,
+									"alpha": -1.666394228361115,
+									"distance": 73.33484846919642,
+									"hostEdge": {
+										"$ref": "AAAAAAFndsZuk+26T+o="
+									},
+									"edgePosition": 1,
+									"text": "energy usage history"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAFndsXyfO2tawc="
+							},
+							"tail": {
+								"$ref": "AAAAAAFnYzhGwlSOihk="
+							},
+							"lineStyle": 2,
+							"points": "1010:808;1010:726",
+							"nameLabel": {
+								"$ref": "AAAAAAFndsZuk+27xAA="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAFndscD3+3IOis=",
+							"_parent": {
+								"$ref": "AAAAAAFnYytzsVNze80="
+							},
+							"model": {
+								"$ref": "AAAAAAFndscD3+3GsBo="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAFndscD4O3JhSw=",
+									"_parent": {
+										"$ref": "AAAAAAFndscD3+3IOis="
+									},
+									"model": {
+										"$ref": "AAAAAAFndscD3+3GsBo="
+									},
+									"font": "Arial;13;0",
+									"left": 1023,
+									"top": 570,
+									"width": 117.0634765625,
+									"height": 13,
+									"alpha": -1.557098366618958,
+									"distance": 73.00684899377592,
+									"hostEdge": {
+										"$ref": "AAAAAAFndscD3+3IOis="
+									},
+									"edgePosition": 1,
+									"text": "Energy Usage"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAFndrB6IO2LPIY="
+							},
+							"tail": {
+								"$ref": "AAAAAAFndsXyfO2tawc="
+							},
+							"lineStyle": 2,
+							"points": "1009:632;1009:525",
+							"nameLabel": {
+								"$ref": "AAAAAAFndscD4O3JhSw="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAFndsg4r+3TeI8=",
+							"_parent": {
+								"$ref": "AAAAAAFnYytzsVNze80="
+							},
+							"model": {
+								"$ref": "AAAAAAFndsg4r+3RByA="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAFndsg4r+3UhIg=",
+									"_parent": {
+										"$ref": "AAAAAAFndsg4r+3TeI8="
+									},
+									"model": {
+										"$ref": "AAAAAAFndsg4r+3RByA="
+									},
+									"font": "Arial;13;0",
+									"left": 509,
+									"top": 79,
+									"width": 82.3798828125,
+									"height": 13,
+									"alpha": -1.4601396544015222,
+									"distance": 18.110770276274835,
+									"hostEdge": {
+										"$ref": "AAAAAAFndsg4r+3TeI8="
+									},
+									"edgePosition": 1,
+									"text": "Energy Usage"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAFnYy3foFONgms="
+							},
+							"tail": {
+								"$ref": "AAAAAAFndrB6IO2LPIY="
+							},
+							"lineStyle": 2,
+							"points": "1008:480;1008:104;96:104;96:280",
+							"nameLabel": {
+								"$ref": "AAAAAAFndsg4r+3UhIg="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAFndsvsbu3yi9c=",
+							"_parent": {
+								"$ref": "AAAAAAFnYytzsVNze80="
+							},
+							"model": {
+								"$ref": "AAAAAAFndsvsbe3wZCQ="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAFndsvsbu3zgkU=",
+									"_parent": {
+										"$ref": "AAAAAAFndsvsbu3yi9c="
+									},
+									"model": {
+										"$ref": "AAAAAAFndsvsbe3wZCQ="
+									},
+									"font": "Arial;13;0",
+									"left": 655,
+									"top": 295,
+									"width": 134.39892578125,
+									"height": 13,
+									"alpha": -2.612137693468875,
+									"distance": 312.8322234041755,
+									"hostEdge": {
+										"$ref": "AAAAAAFndsvsbu3yi9c="
+									},
+									"edgePosition": 1,
+									"text": "Energy Usage Records"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAFnYzhGwlSOihk="
+							},
+							"tail": {
+								"$ref": "AAAAAAFnYyxNqVN9AOA="
+							},
+							"lineStyle": 2,
+							"points": "504:320;880:320;880:824;952:824",
+							"nameLabel": {
+								"$ref": "AAAAAAFndsvsbu3zgkU="
+							}
 						}
 					]
 				},
@@ -1555,16 +1694,16 @@
 						},
 						{
 							"_type": "DFDDataFlow",
-							"_id": "AAAAAAFnY0IrG1TKMNU=",
+							"_id": "AAAAAAFndsvsbe3wZCQ=",
 							"_parent": {
 								"$ref": "AAAAAAFnYyxNqVN7//g="
 							},
-							"name": "Energy usage record",
+							"name": "Energy Usage Records",
 							"source": {
 								"$ref": "AAAAAAFnYyxNqVN7//g="
 							},
 							"target": {
-								"$ref": "AAAAAAFnY0GsnFS5Qto="
+								"$ref": "AAAAAAFnYzhGwlSMAQQ="
 							}
 						}
 					],
@@ -1777,32 +1916,23 @@
 					"_parent": {
 						"$ref": "AAAAAAFnYytzsVNyWDU="
 					},
-					"name": "SPS"
-				},
-				{
-					"_type": "DFDProcess",
-					"_id": "AAAAAAFnY0GsnFS5Qto=",
-					"_parent": {
-						"$ref": "AAAAAAFnYytzsVNyWDU="
-					},
-					"name": "Manage History",
+					"name": "SPS",
 					"ownedElements": [
 						{
 							"_type": "DFDDataFlow",
-							"_id": "AAAAAAFnY0NvFVTgcV0=",
+							"_id": "AAAAAAFndsZuk+24Pbc=",
 							"_parent": {
-								"$ref": "AAAAAAFnY0GsnFS5Qto="
+								"$ref": "AAAAAAFnYzhGwlSMAQQ="
 							},
-							"name": "Energy Usage History",
+							"name": "energy usage history",
 							"source": {
-								"$ref": "AAAAAAFnY0GsnFS5Qto="
+								"$ref": "AAAAAAFnYzhGwlSMAQQ="
 							},
 							"target": {
-								"$ref": "AAAAAAFnYzhGwlSMAQQ="
+								"$ref": "AAAAAAFndsXyfO2rRqQ="
 							}
 						}
-					],
-					"id": "5.0"
+					]
 				},
 				{
 					"_type": "DFDProcess",
@@ -1912,6 +2042,54 @@
 						"$ref": "AAAAAAFnYytzsVNyWDU="
 					},
 					"name": "FireAlarmSystem"
+				},
+				{
+					"_type": "DFDDataStore",
+					"_id": "AAAAAAFndrB6H+2JXIY=",
+					"_parent": {
+						"$ref": "AAAAAAFnYytzsVNyWDU="
+					},
+					"name": "Energy Usage Records",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAFndsg4r+3RByA=",
+							"_parent": {
+								"$ref": "AAAAAAFndrB6H+2JXIY="
+							},
+							"name": "Energy Usage",
+							"source": {
+								"$ref": "AAAAAAFndrB6H+2JXIY="
+							},
+							"target": {
+								"$ref": "AAAAAAFnYy3fn1OLxiU="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDProcess",
+					"_id": "AAAAAAFndsXyfO2rRqQ=",
+					"_parent": {
+						"$ref": "AAAAAAFnYytzsVNyWDU="
+					},
+					"name": "Manage Energy Usage History",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAFndscD3+3GsBo=",
+							"_parent": {
+								"$ref": "AAAAAAFndsXyfO2rRqQ="
+							},
+							"name": "Energy Usage",
+							"source": {
+								"$ref": "AAAAAAFndsXyfO2rRqQ="
+							},
+							"target": {
+								"$ref": "AAAAAAFndrB6H+2JXIY="
+							}
+						}
+					]
 				}
 			]
 		},
@@ -2377,8 +2555,8 @@
 									"left": 658,
 									"top": 480,
 									"width": 157,
-									"height": 26,
-									"text": "Manage Monthly Payments",
+									"height": 13,
+									"text": "Store Monthly Payments",
 									"wordWrap": true
 								},
 								{
@@ -2739,102 +2917,6 @@
 						},
 						{
 							"_type": "DFDProcessView",
-							"_id": "AAAAAAFnY2PZhVZrQoI=",
-							"_parent": {
-								"$ref": "AAAAAAFnY02PtlVF4Jk="
-							},
-							"model": {
-								"$ref": "AAAAAAFnY2PZhVZp9FA="
-							},
-							"subViews": [
-								{
-									"_type": "LabelView",
-									"_id": "AAAAAAFnY2PZhVZsgEA=",
-									"_parent": {
-										"$ref": "AAAAAAFnY2PZhVZrQoI="
-									},
-									"font": "Arial;13;0",
-									"left": 122,
-									"top": 872,
-									"width": 133,
-									"height": 26,
-									"text": "Manage Energy History",
-									"wordWrap": true
-								},
-								{
-									"_type": "LabelView",
-									"_id": "AAAAAAFnY2PZhVZtPWg=",
-									"_parent": {
-										"$ref": "AAAAAAFnY2PZhVZrQoI="
-									},
-									"font": "Arial;13;0",
-									"left": 122,
-									"top": 845,
-									"width": 133,
-									"height": 13,
-									"text": "4.0"
-								}
-							],
-							"font": "Arial;13;0",
-							"left": 112,
-							"top": 840,
-							"width": 153,
-							"height": 82,
-							"nameLabel": {
-								"$ref": "AAAAAAFnY2PZhVZsgEA="
-							},
-							"idLabel": {
-								"$ref": "AAAAAAFnY2PZhVZtPWg="
-							}
-						},
-						{
-							"_type": "DFDDataFlowView",
-							"_id": "AAAAAAFnZaLdtcYRj0s=",
-							"_parent": {
-								"$ref": "AAAAAAFnY02PtlVF4Jk="
-							},
-							"model": {
-								"$ref": "AAAAAAFnZaLdtMYPamc="
-							},
-							"subViews": [
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAFnZaLdtcYStZM=",
-									"_parent": {
-										"$ref": "AAAAAAFnZaLdtcYRj0s="
-									},
-									"model": {
-										"$ref": "AAAAAAFnZaLdtMYPamc="
-									},
-									"font": "Arial;13;0",
-									"left": 95,
-									"top": 307,
-									"width": 110.54443359375,
-									"height": 13,
-									"alpha": 0.21109330395445786,
-									"distance": 71.58910531638176,
-									"hostEdge": {
-										"$ref": "AAAAAAFnZaLdtcYRj0s="
-									},
-									"edgePosition": 1,
-									"text": "Energy History Info"
-								}
-							],
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAFnY1cHqlWi7ic="
-							},
-							"tail": {
-								"$ref": "AAAAAAFnY2PZhVZrQoI="
-							},
-							"lineStyle": 2,
-							"points": "112:872;80:872;80:328;464:328;464:384",
-							"nameLabel": {
-								"$ref": "AAAAAAFnZaLdtcYStZM="
-							}
-						},
-						{
-							"_type": "DFDProcessView",
 							"_id": "AAAAAAFnZaUAD8YhK3E=",
 							"_parent": {
 								"$ref": "AAAAAAFnY02PtlVF4Jk="
@@ -2881,52 +2963,6 @@
 							},
 							"idLabel": {
 								"$ref": "AAAAAAFnZaUAD8Yj+A0="
-							}
-						},
-						{
-							"_type": "DFDDataFlowView",
-							"_id": "AAAAAAFnZabZf8Y+/R8=",
-							"_parent": {
-								"$ref": "AAAAAAFnY02PtlVF4Jk="
-							},
-							"model": {
-								"$ref": "AAAAAAFnZabZf8Y8qS4="
-							},
-							"subViews": [
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAFnZabZf8Y/Rw0=",
-									"_parent": {
-										"$ref": "AAAAAAFnZabZf8Y+/R8="
-									},
-									"model": {
-										"$ref": "AAAAAAFnZabZf8Y8qS4="
-									},
-									"font": "Arial;13;0",
-									"left": 694,
-									"top": 704,
-									"width": 86.70263671875,
-									"height": 13,
-									"alpha": 0.6575282150436753,
-									"distance": 199.61963831246663,
-									"hostEdge": {
-										"$ref": "AAAAAAFnZabZf8Y+/R8="
-									},
-									"edgePosition": 1,
-									"text": "Home Unit Info"
-								}
-							],
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAFnZaUAD8YhK3E="
-							},
-							"tail": {
-								"$ref": "AAAAAAFnY1cHqlWi7ic="
-							},
-							"lineStyle": 2,
-							"points": "538:408;616:408;616:696;920:696",
-							"nameLabel": {
-								"$ref": "AAAAAAFnZabZf8Y/Rw0="
 							}
 						},
 						{
@@ -3433,11 +3469,11 @@
 										"$ref": "AAAAAAFndpMvKezzgQo="
 									},
 									"font": "Arial;13;0",
-									"left": 148,
-									"top": 1018,
+									"left": 716,
+									"top": 74,
 									"width": 99,
-									"height": 13,
-									"text": "Energy Usages",
+									"height": 26,
+									"text": "Energy Usage Records",
 									"wordWrap": true
 								},
 								{
@@ -3447,14 +3483,14 @@
 										"$ref": "AAAAAAFndpMvKezzgQo="
 									},
 									"font": "Arial;13;0",
-									"left": 133,
-									"top": 1018,
+									"left": 701,
+									"top": 74,
 									"height": 13
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 128,
-							"top": 1008,
+							"left": 696,
+							"top": 64,
 							"width": 129,
 							"height": 46,
 							"nameLabel": {
@@ -3465,36 +3501,132 @@
 							}
 						},
 						{
-							"_type": "DFDDataFlowView",
-							"_id": "AAAAAAFndpWUJu0BYPk=",
+							"_type": "DFDProcessView",
+							"_id": "AAAAAAFnds7zhO4jVvk=",
 							"_parent": {
 								"$ref": "AAAAAAFnY02PtlVF4Jk="
 							},
 							"model": {
-								"$ref": "AAAAAAFndpWUJuz/Ivo="
+								"$ref": "AAAAAAFnds7zhO4h0Y8="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAFnds7zhe4kbnk=",
+									"_parent": {
+										"$ref": "AAAAAAFnds7zhO4jVvk="
+									},
+									"font": "Arial;13;0",
+									"left": 690,
+									"top": 208,
+									"width": 141,
+									"height": 26,
+									"text": "Manage Energy Usage Records",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAFnds7zhe4l2vo=",
+									"_parent": {
+										"$ref": "AAAAAAFnds7zhO4jVvk="
+									},
+									"font": "Arial;13;0",
+									"left": 690,
+									"top": 181,
+									"width": 141,
+									"height": 13,
+									"text": "4.0"
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 680,
+							"top": 176,
+							"width": 161,
+							"height": 95,
+							"nameLabel": {
+								"$ref": "AAAAAAFnds7zhe4kbnk="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAFnds7zhe4l2vo="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAFnds+fqO40VVc=",
+							"_parent": {
+								"$ref": "AAAAAAFnY02PtlVF4Jk="
+							},
+							"model": {
+								"$ref": "AAAAAAFnds+fpu4yJb4="
 							},
 							"subViews": [
 								{
 									"_type": "EdgeLabelView",
-									"_id": "AAAAAAFndpWUJu0Czho=",
+									"_id": "AAAAAAFnds+fqO417MI=",
 									"_parent": {
-										"$ref": "AAAAAAFndpWUJu0BYPk="
+										"$ref": "AAAAAAFnds+fqO40VVc="
 									},
 									"model": {
-										"$ref": "AAAAAAFndpWUJuz/Ivo="
+										"$ref": "AAAAAAFnds+fpu4yJb4="
 									},
 									"font": "Arial;13;0",
-									"left": 144,
-									"top": 957,
-									"width": 107.67529296875,
+									"left": 768,
+									"top": 375,
+									"width": 127.89892578125,
 									"height": 13,
-									"alpha": 1.597816541410166,
-									"distance": 37.013511046643494,
+									"alpha": -1.7654817374051714,
+									"distance": 72.3671196055225,
 									"hostEdge": {
-										"$ref": "AAAAAAFndpWUJu0BYPk="
+										"$ref": "AAAAAAFnds+fqO40VVc="
 									},
 									"edgePosition": 1,
-									"text": "Energy Usage Info"
+									"text": "Energy Usage Record"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAFnds7zhO4jVvk="
+							},
+							"tail": {
+								"$ref": "AAAAAAFnZbAPkcZVfNQ="
+							},
+							"lineStyle": 2,
+							"points": "912:368;760:368;760:270",
+							"nameLabel": {
+								"$ref": "AAAAAAFnds+fqO417MI="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAFndtG+lu5XBYs=",
+							"_parent": {
+								"$ref": "AAAAAAFnY02PtlVF4Jk="
+							},
+							"model": {
+								"$ref": "AAAAAAFndtG+lu5V9BQ="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAFndtG+lu5YWj8=",
+									"_parent": {
+										"$ref": "AAAAAAFndtG+lu5XBYs="
+									},
+									"model": {
+										"$ref": "AAAAAAFndtG+lu5V9BQ="
+									},
+									"font": "Arial;13;0",
+									"left": 694,
+									"top": 133,
+									"width": 134.39892578125,
+									"height": 13,
+									"alpha": -1.4601388635662742,
+									"distance": 18.110770276274835,
+									"hostEdge": {
+										"$ref": "AAAAAAFndtG+lu5XBYs="
+									},
+									"edgePosition": 1,
+									"text": "Energy Usage Records"
 								}
 							],
 							"font": "Arial;13;0",
@@ -3502,57 +3634,103 @@
 								"$ref": "AAAAAAFndpMvKezzgQo="
 							},
 							"tail": {
-								"$ref": "AAAAAAFnY2PZhVZrQoI="
+								"$ref": "AAAAAAFnds7zhO4jVvk="
 							},
 							"lineStyle": 2,
-							"points": "160:921;160:1008",
+							"points": "744:176;744:109",
 							"nameLabel": {
-								"$ref": "AAAAAAFndpWUJu0Czho="
+								"$ref": "AAAAAAFndtG+lu5YWj8="
 							}
 						},
 						{
 							"_type": "DFDDataFlowView",
-							"_id": "AAAAAAFndpWvj+0Xbrc=",
+							"_id": "AAAAAAFndtHpk+5j2S8=",
 							"_parent": {
 								"$ref": "AAAAAAFnY02PtlVF4Jk="
 							},
 							"model": {
-								"$ref": "AAAAAAFndpWvj+0VeNk="
+								"$ref": "AAAAAAFndtHpk+5hOxs="
 							},
 							"subViews": [
 								{
 									"_type": "EdgeLabelView",
-									"_id": "AAAAAAFndpWvj+0Y5/w=",
+									"_id": "AAAAAAFndtHpk+5ktTk=",
 									"_parent": {
-										"$ref": "AAAAAAFndpWvj+0Xbrc="
+										"$ref": "AAAAAAFndtHpk+5j2S8="
 									},
 									"model": {
-										"$ref": "AAAAAAFndpWvj+0VeNk="
+										"$ref": "AAAAAAFndtHpk+5hOxs="
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 217,
-									"top": 957,
+									"left": 806,
+									"top": 135,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
 									"hostEdge": {
-										"$ref": "AAAAAAFndpWvj+0Xbrc="
+										"$ref": "AAAAAAFndtHpk+5j2S8="
 									},
 									"edgePosition": 1
 								}
 							],
 							"font": "Arial;13;0",
 							"head": {
-								"$ref": "AAAAAAFnY2PZhVZrQoI="
+								"$ref": "AAAAAAFnds7zhO4jVvk="
 							},
 							"tail": {
 								"$ref": "AAAAAAFndpMvKezzgQo="
 							},
 							"lineStyle": 2,
-							"points": "232:1008;232:921",
+							"points": "792:109;792:176",
 							"nameLabel": {
-								"$ref": "AAAAAAFndpWvj+0Y5/w="
+								"$ref": "AAAAAAFndtHpk+5ktTk="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAFndtNw0e5zM50=",
+							"_parent": {
+								"$ref": "AAAAAAFnY02PtlVF4Jk="
+							},
+							"model": {
+								"$ref": "AAAAAAFndtNw0e5xKTo="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAFndtNw0e505wg=",
+									"_parent": {
+										"$ref": "AAAAAAFndtNw0e5zM50="
+									},
+									"model": {
+										"$ref": "AAAAAAFndtNw0e5xKTo="
+									},
+									"font": "Arial;13;0",
+									"left": 911,
+									"top": 207,
+									"width": 126.43896484375,
+									"height": 13,
+									"alpha": -3.0309360547258306,
+									"distance": 18.110770276274835,
+									"hostEdge": {
+										"$ref": "AAAAAAFndtNw0e5zM50="
+									},
+									"edgePosition": 1,
+									"text": "Energy Usage History"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAFnZbAPkcZVfNQ="
+							},
+							"tail": {
+								"$ref": "AAAAAAFnds7zhO4jVvk="
+							},
+							"lineStyle": 2,
+							"points": "840:232;976:232;976:368",
+							"nameLabel": {
+								"$ref": "AAAAAAFndtNw0e505wg="
 							}
 						}
 					]
@@ -3641,20 +3819,6 @@
 							"target": {
 								"$ref": "AAAAAAFnY1kMRVXdwhk="
 							}
-						},
-						{
-							"_type": "DFDDataFlow",
-							"_id": "AAAAAAFnZabZf8Y8qS4=",
-							"_parent": {
-								"$ref": "AAAAAAFnY1cHqlWgVvU="
-							},
-							"name": "Home Unit Info",
-							"source": {
-								"$ref": "AAAAAAFnY1cHqlWgVvU="
-							},
-							"target": {
-								"$ref": "AAAAAAFnZaUAD8Yf6W8="
-							}
 						}
 					]
 				},
@@ -3688,7 +3852,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFnY02PtlVETi8="
 					},
-					"name": "Manage Monthly Payments",
+					"name": "Store Monthly Payments",
 					"ownedElements": [
 						{
 							"_type": "DFDDataFlow",
@@ -3750,45 +3914,6 @@
 				},
 				{
 					"_type": "DFDProcess",
-					"_id": "AAAAAAFnY2PZhVZp9FA=",
-					"_parent": {
-						"$ref": "AAAAAAFnY02PtlVETi8="
-					},
-					"name": "Manage Energy History",
-					"ownedElements": [
-						{
-							"_type": "DFDDataFlow",
-							"_id": "AAAAAAFnZaLdtMYPamc=",
-							"_parent": {
-								"$ref": "AAAAAAFnY2PZhVZp9FA="
-							},
-							"name": "Energy History Info",
-							"source": {
-								"$ref": "AAAAAAFnY2PZhVZp9FA="
-							},
-							"target": {
-								"$ref": "AAAAAAFnY1cHqlWgVvU="
-							}
-						},
-						{
-							"_type": "DFDDataFlow",
-							"_id": "AAAAAAFndpWUJuz/Ivo=",
-							"_parent": {
-								"$ref": "AAAAAAFnY2PZhVZp9FA="
-							},
-							"name": "Energy Usage Info",
-							"source": {
-								"$ref": "AAAAAAFnY2PZhVZp9FA="
-							},
-							"target": {
-								"$ref": "AAAAAAFndpMvKezxH/A="
-							}
-						}
-					],
-					"id": "4.0"
-				},
-				{
-					"_type": "DFDProcess",
 					"_id": "AAAAAAFnZaUAD8Yf6W8=",
 					"_parent": {
 						"$ref": "AAAAAAFnY02PtlVETi8="
@@ -3846,6 +3971,20 @@
 							},
 							"target": {
 								"$ref": "AAAAAAFnZbEglMaEggs="
+							}
+						},
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAFnds+fpu4yJb4=",
+							"_parent": {
+								"$ref": "AAAAAAFnZbAPkcZTIkY="
+							},
+							"name": "Energy Usage Record",
+							"source": {
+								"$ref": "AAAAAAFnZbAPkcZTIkY="
+							},
+							"target": {
+								"$ref": "AAAAAAFnds7zhO4h0Y8="
 							}
 						}
 					]
@@ -3927,11 +4066,11 @@
 					"_parent": {
 						"$ref": "AAAAAAFnY02PtlVETi8="
 					},
-					"name": "Energy Usages",
+					"name": "Energy Usage Records",
 					"ownedElements": [
 						{
 							"_type": "DFDDataFlow",
-							"_id": "AAAAAAFndpWvj+0VeNk=",
+							"_id": "AAAAAAFndtHpk+5hOxs=",
 							"_parent": {
 								"$ref": "AAAAAAFndpMvKezxH/A="
 							},
@@ -3939,10 +4078,49 @@
 								"$ref": "AAAAAAFndpMvKezxH/A="
 							},
 							"target": {
-								"$ref": "AAAAAAFnY2PZhVZp9FA="
+								"$ref": "AAAAAAFnds7zhO4h0Y8="
 							}
 						}
 					]
+				},
+				{
+					"_type": "DFDProcess",
+					"_id": "AAAAAAFnds7zhO4h0Y8=",
+					"_parent": {
+						"$ref": "AAAAAAFnY02PtlVETi8="
+					},
+					"name": "Manage Energy Usage Records",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAFndtG+lu5V9BQ=",
+							"_parent": {
+								"$ref": "AAAAAAFnds7zhO4h0Y8="
+							},
+							"name": "Energy Usage Records",
+							"source": {
+								"$ref": "AAAAAAFnds7zhO4h0Y8="
+							},
+							"target": {
+								"$ref": "AAAAAAFndpMvKezxH/A="
+							}
+						},
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAFndtNw0e5xKTo=",
+							"_parent": {
+								"$ref": "AAAAAAFnds7zhO4h0Y8="
+							},
+							"name": "Energy Usage History",
+							"source": {
+								"$ref": "AAAAAAFnds7zhO4h0Y8="
+							},
+							"target": {
+								"$ref": "AAAAAAFnZbAPkcZTIkY="
+							}
+						}
+					],
+					"id": "4.0"
 				}
 			]
 		}
