@@ -81,6 +81,18 @@
 							"subViews": [
 								{
 									"_type": "LabelView",
+									"_id": "AAAAAAFnd6G6sO7s5Yc=",
+									"_parent": {
+										"$ref": "AAAAAAFnYfNmCAxfLMs="
+									},
+									"font": "Arial;13;0",
+									"left": 58,
+									"top": 293,
+									"width": 149,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
 									"_id": "AAAAAAFndqi2T8xuRGI=",
 									"_parent": {
 										"$ref": "AAAAAAFnYfNmCAxfLMs="
@@ -452,6 +464,18 @@
 							"subViews": [
 								{
 									"_type": "LabelView",
+									"_id": "AAAAAAFnd6G6s+8I6BM=",
+									"_parent": {
+										"$ref": "AAAAAAFnYfwq8A0fvmQ="
+									},
+									"font": "Arial;13;0",
+									"left": 794,
+									"top": 325,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
 									"_id": "AAAAAAFndqi2UMyJcyE=",
 									"_parent": {
 										"$ref": "AAAAAAFnYfwq8A0fvmQ="
@@ -639,6 +663,18 @@
 							"subViews": [
 								{
 									"_type": "LabelView",
+									"_id": "AAAAAAFnd6G6tu8YPRQ=",
+									"_parent": {
+										"$ref": "AAAAAAFnYgAvxw17+Hc="
+									},
+									"font": "Arial;13;0",
+									"left": 794,
+									"top": 429,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
 									"_id": "AAAAAAFndqi2U8yYOIc=",
 									"_parent": {
 										"$ref": "AAAAAAFnYgAvxw17+Hc="
@@ -824,6 +860,18 @@
 								"$ref": "AAAAAAFnYibw8w5BVwI="
 							},
 							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAFnd6G6t+8oQBA=",
+									"_parent": {
+										"$ref": "AAAAAAFnYibw8w5DJNc="
+									},
+									"font": "Arial;13;0",
+									"left": 794,
+									"top": 373,
+									"width": 99.67724609375,
+									"height": 13
+								},
 								{
 									"_type": "LabelView",
 									"_id": "AAAAAAFndqi2Vcynu9c=",
@@ -1421,6 +1469,18 @@
 							"subViews": [
 								{
 									"_type": "LabelView",
+									"_id": "AAAAAAFnd6G6ve9Yzzo=",
+									"_parent": {
+										"$ref": "AAAAAAFnYjn+W589lyA="
+									},
+									"font": "Arial;13;0",
+									"left": 154,
+									"top": 213,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
 									"_id": "AAAAAAFndqi2XszWzWg=",
 									"_parent": {
 										"$ref": "AAAAAAFnYjn+W589lyA="
@@ -1548,6 +1608,18 @@
 								"$ref": "AAAAAAFnYj8E3wxp7OA="
 							},
 							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAFnd6G6vu9kBr0=",
+									"_parent": {
+										"$ref": "AAAAAAFnYj8E3wxrMkE="
+									},
+									"font": "Arial;13;0",
+									"left": 98,
+									"top": 501,
+									"width": 87.4326171875,
+									"height": 13
+								},
 								{
 									"_type": "LabelView",
 									"_id": "AAAAAAFndqi2X8zhr+c=",
@@ -1757,6 +1829,18 @@
 								"$ref": "AAAAAAFnYkCPUgylCj4="
 							},
 							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAFnd6G6we91bkA=",
+									"_parent": {
+										"$ref": "AAAAAAFnYkCPUgynbKc="
+									},
+									"font": "Arial;13;0",
+									"left": 698,
+									"top": 237,
+									"width": 115.59716796875,
+									"height": 13
+								},
 								{
 									"_type": "LabelView",
 									"_id": "AAAAAAFndqi2YszxcpM=",
@@ -2060,6 +2144,18 @@
 							"subViews": [
 								{
 									"_type": "LabelView",
+									"_id": "AAAAAAFnd6G6w++MTrk=",
+									"_parent": {
+										"$ref": "AAAAAAFnYoI2FQWBvgI="
+									},
+									"font": "Arial;13;0",
+									"left": 738,
+									"top": 413,
+									"width": 99.67724609375,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
 									"_id": "AAAAAAFndqi2ZM0HIuU=",
 									"_parent": {
 										"$ref": "AAAAAAFnYoI2FQWBvgI="
@@ -2198,19 +2294,6 @@
 							"nameLabel": {
 								"$ref": "AAAAAAFnYoVNzqIZ7Qw="
 							}
-						},
-						{
-							"_type": "UMLTextView",
-							"_id": "AAAAAAFnZZ3C/kacAnU=",
-							"_parent": {
-								"$ref": "AAAAAAFnYhAT1g4dc/Q="
-							},
-							"font": "Arial;13;0",
-							"left": 136,
-							"top": 640,
-							"width": 201,
-							"height": 64,
-							"text": "3 leaving, 5 entering"
 						},
 						{
 							"_type": "DFDDataFlowView",
