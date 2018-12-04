@@ -730,8 +730,8 @@
 										"$ref": "AAAAAAFnYzhGwlSOihk="
 									},
 									"font": "Arial;13;0",
-									"left": 658,
-									"top": 821,
+									"left": 1194,
+									"top": 829,
 									"width": 87.4326171875,
 									"height": 13
 								},
@@ -742,8 +742,8 @@
 										"$ref": "AAAAAAFnYzhGwlSOihk="
 									},
 									"font": "Arial;13;0",
-									"left": 658,
-									"top": 821,
+									"left": 1194,
+									"top": 829,
 									"width": 87.4326171875,
 									"height": 13
 								},
@@ -754,8 +754,8 @@
 										"$ref": "AAAAAAFnYzhGwlSOihk="
 									},
 									"font": "Arial;13;0",
-									"left": 658,
-									"top": 821,
+									"left": 1194,
+									"top": 829,
 									"width": 87.4326171875,
 									"height": 13
 								},
@@ -766,8 +766,8 @@
 										"$ref": "AAAAAAFnYzhGwlSOihk="
 									},
 									"font": "Arial;13;0",
-									"left": 658,
-									"top": 826,
+									"left": 1194,
+									"top": 834,
 									"width": 87.4326171875,
 									"height": 13,
 									"text": "SPS",
@@ -780,13 +780,14 @@
 										"$ref": "AAAAAAFnYzhGwlSOihk="
 									},
 									"font": "Arial;13;0",
-									"left": 608,
+									"left": 1144,
+									"top": 8,
 									"height": 13
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 648,
-							"top": 816,
+							"left": 1184,
+							"top": 824,
 							"width": 107.4326171875,
 							"height": 33,
 							"nameLabel": {
@@ -813,7 +814,7 @@
 										"$ref": "AAAAAAFnYz6enFSZZaI="
 									},
 									"font": "Arial;13;0",
-									"left": 502,
+									"left": 770,
 									"top": 814,
 									"width": 139.46435546875,
 									"height": 13,
@@ -834,7 +835,7 @@
 								"$ref": "AAAAAAFnYzQFElRq5XE="
 							},
 							"lineStyle": 2,
-							"points": "496:833;648:833",
+							"points": "496:833;1184:833",
 							"nameLabel": {
 								"$ref": "AAAAAAFnYz6enFScf9s="
 							}
@@ -856,8 +857,8 @@
 										"$ref": "AAAAAAFnY0GsnFS7lno="
 									},
 									"font": "Arial;13;0",
-									"left": 706,
-									"top": 592,
+									"left": 1242,
+									"top": 600,
 									"width": 165,
 									"height": 13,
 									"text": "Manage History",
@@ -870,16 +871,16 @@
 										"$ref": "AAAAAAFnY0GsnFS7lno="
 									},
 									"font": "Arial;13;0",
-									"left": 706,
-									"top": 565,
+									"left": 1242,
+									"top": 573,
 									"width": 165,
 									"height": 13,
 									"text": "5.0"
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 696,
-							"top": 560,
+							"left": 1232,
+							"top": 568,
 							"width": 185,
 							"height": 69,
 							"nameLabel": {
@@ -909,8 +910,8 @@
 										"$ref": "AAAAAAFnY0IrG1TKMNU="
 									},
 									"font": "Arial;13;0",
-									"left": 599,
-									"top": 343,
+									"left": 1127,
+									"top": 303,
 									"width": 120.681640625,
 									"height": 13,
 									"alpha": -1.7332855121832635,
@@ -930,7 +931,7 @@
 								"$ref": "AAAAAAFnYyxNqVN9AOA="
 							},
 							"lineStyle": 2,
-							"points": "504:360;720:360;720:560",
+							"points": "504:320;1248:320;1248:568",
 							"nameLabel": {
 								"$ref": "AAAAAAFnY0IrG1TNy78="
 							}
@@ -955,8 +956,8 @@
 										"$ref": "AAAAAAFnY0NvFVTgcV0="
 									},
 									"font": "Arial;13;0",
-									"left": 791,
-									"top": 808,
+									"left": 1327,
+									"top": 816,
 									"width": 126.43896484375,
 									"height": 13,
 									"alpha": 3.393282590891629,
@@ -976,7 +977,7 @@
 								"$ref": "AAAAAAFnY0GsnFS7lno="
 							},
 							"lineStyle": 2,
-							"points": "784:628;784:832;754:832",
+							"points": "1320:636;1320:840;1290:840",
 							"nameLabel": {
 								"$ref": "AAAAAAFnY0NvFVTjmC4="
 							}
@@ -998,8 +999,8 @@
 										"$ref": "AAAAAAFnY0Y/XlTwcA8="
 									},
 									"font": "Arial;13;0",
-									"left": 1098,
-									"top": 728,
+									"left": 650,
+									"top": 720,
 									"width": 157,
 									"height": 13,
 									"text": "Manage FireAlarmSystem",
@@ -1012,16 +1013,16 @@
 										"$ref": "AAAAAAFnY0Y/XlTwcA8="
 									},
 									"font": "Arial;13;0",
-									"left": 1098,
-									"top": 701,
+									"left": 650,
+									"top": 693,
 									"width": 157,
 									"height": 13,
 									"text": "5."
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 1088,
-							"top": 696,
+							"left": 640,
+							"top": 688,
 							"width": 177,
 							"height": 69,
 							"nameLabel": {
@@ -1051,8 +1052,8 @@
 									"left": 324,
 									"top": 714,
 									"width": 123,
-									"height": 13,
-									"text": "Thermostat Settings",
+									"height": 26,
+									"text": "Thermostat Settings/Information",
 									"wordWrap": true
 								},
 								{
@@ -1190,9 +1191,9 @@
 										"$ref": "AAAAAAFnY0939VVhVqc="
 									},
 									"font": "Arial;13;0",
-									"left": 1098,
-									"top": 853,
-									"width": 87.4326171875,
+									"left": 994,
+									"top": 725,
+									"width": 99.67724609375,
 									"height": 13
 								},
 								{
@@ -1202,8 +1203,8 @@
 										"$ref": "AAAAAAFnY0939VVhVqc="
 									},
 									"font": "Arial;13;0",
-									"left": 1098,
-									"top": 853,
+									"left": 666,
+									"top": 613,
 									"width": 87.4326171875,
 									"height": 13
 								},
@@ -1214,8 +1215,8 @@
 										"$ref": "AAAAAAFnY0939VVhVqc="
 									},
 									"font": "Arial;13;0",
-									"left": 1098,
-									"top": 853,
+									"left": 666,
+									"top": 613,
 									"width": 87.4326171875,
 									"height": 13
 								},
@@ -1226,11 +1227,11 @@
 										"$ref": "AAAAAAFnY0939VVhVqc="
 									},
 									"font": "Arial;13;0",
-									"left": 1098,
-									"top": 858,
-									"width": 87.4326171875,
+									"left": 994,
+									"top": 730,
+									"width": 99.67724609375,
 									"height": 13,
-									"text": "Thermostat",
+									"text": "FireAlarmSystem",
 									"wordWrap": true
 								},
 								{
@@ -1240,15 +1241,15 @@
 										"$ref": "AAAAAAFnY0939VVhVqc="
 									},
 									"font": "Arial;13;0",
-									"left": 16,
-									"top": 304,
+									"left": -416,
+									"top": 64,
 									"height": 13
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 1088,
-							"top": 848,
-							"width": 107.4326171875,
+							"left": 984,
+							"top": 720,
+							"width": 119.67724609375,
 							"height": 33,
 							"nameLabel": {
 								"$ref": "AAAAAAFnY0939lViNjA="
@@ -1274,8 +1275,8 @@
 										"$ref": "AAAAAAFnY0+iYFVrjCY="
 									},
 									"font": "Arial;13;0",
-									"left": 1208,
-									"top": 871,
+									"left": 841,
+									"top": 708,
 									"width": 91.0634765625,
 									"height": 13,
 									"alpha": 2.3191747578799218,
@@ -1295,7 +1296,7 @@
 								"$ref": "AAAAAAFnY0Y/XlTwcA8="
 							},
 							"lineStyle": 2,
-							"points": "1240:764;1240:864;1194:864",
+							"points": "816:728;984:728",
 							"nameLabel": {
 								"$ref": "AAAAAAFnY0+iYFVuRoo="
 							}
@@ -1484,32 +1485,32 @@
 						},
 						{
 							"_type": "DFDDataFlowView",
-							"_id": "AAAAAAFndqLSLe1Pcko=",
+							"_id": "AAAAAAFndqdhZO2AScc=",
 							"_parent": {
 								"$ref": "AAAAAAFnYytzsVNze80="
 							},
 							"model": {
-								"$ref": "AAAAAAFndqLSLe1N630="
+								"$ref": "AAAAAAFndqdhZO1+OCo="
 							},
 							"subViews": [
 								{
 									"_type": "EdgeLabelView",
-									"_id": "AAAAAAFndqLSLe1Qf/w=",
+									"_id": "AAAAAAFndqdhZO2B40I=",
 									"_parent": {
-										"$ref": "AAAAAAFndqLSLe1Pcko="
+										"$ref": "AAAAAAFndqdhZO2AScc="
 									},
 									"model": {
-										"$ref": "AAAAAAFndqLSLe1N630="
+										"$ref": "AAAAAAFndqdhZO1+OCo="
 									},
 									"font": "Arial;13;0",
-									"left": 647,
-									"top": 707,
-									"width": 116.3271484375,
+									"left": 503,
+									"top": 704,
+									"width": 91.0634765625,
 									"height": 13,
-									"alpha": -3.3760083630333138,
-									"distance": 68.8839603971781,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
 									"hostEdge": {
-										"$ref": "AAAAAAFndqLSLe1Pcko="
+										"$ref": "AAAAAAFndqdhZO2AScc="
 									},
 									"edgePosition": 1,
 									"text": "Connection Info"
@@ -1523,9 +1524,9 @@
 								"$ref": "AAAAAAFnY0asClUA/yE="
 							},
 							"lineStyle": 2,
-							"points": "456:730;1088:730",
+							"points": "456:725;640:725",
 							"nameLabel": {
-								"$ref": "AAAAAAFndqLSLe1Qf/w="
+								"$ref": "AAAAAAFndqdhZO2B40I="
 							}
 						}
 					]
@@ -1834,7 +1835,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFnYytzsVNyWDU="
 					},
-					"name": "Thermostat Settings",
+					"name": "Thermostat Settings/Information",
 					"ownedElements": [
 						{
 							"_type": "DFDDataFlow",
@@ -1866,7 +1867,7 @@
 						},
 						{
 							"_type": "DFDDataFlow",
-							"_id": "AAAAAAFndqLSLe1N630=",
+							"_id": "AAAAAAFndqdhZO1+OCo=",
 							"_parent": {
 								"$ref": "AAAAAAFnY0asClT+tEM="
 							},
@@ -1910,7 +1911,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFnYytzsVNyWDU="
 					},
-					"name": "Thermostat"
+					"name": "FireAlarmSystem"
 				}
 			]
 		},
